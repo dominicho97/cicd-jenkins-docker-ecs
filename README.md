@@ -4,6 +4,8 @@
 ## Jenkins CICD pipeline
 ![CICDJenkins_ecs_docker](https://github.com/dominicho97/cicd-jenkins-docker-ecs/assets/43000003/c5a39593-250a-40c3-a8dd-54fc998f2d6b)
 
+### Code checkstyle analysis with Maven
+
 ### Code analysis is done with Sonarqube
 ![sonarcube](https://github.com/dominicho97/cicd-jenkins-docker-ecs/assets/43000003/982c493b-ac17-4ecb-8bb4-4b8e84e99dbd)
 
