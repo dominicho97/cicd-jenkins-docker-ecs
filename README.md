@@ -16,3 +16,10 @@ This project focuses on implementing a robust CI/CD pipeline using Jenkins for b
 
 ## ECS deployment status
 ![deployment](https://github.com/dominicho97/cicd-jenkins-docker-ecs/assets/43000003/4d07cf2a-1d38-4417-ba05-74927771063e)
+
+
+## Benefits:
+
+Time and Cost Savings: Automation reduces manual intervention, minimizing errors and accelerating the deployment process.
+Consistency and Reliability: Ensures consistency in the deployment process across different environments, reducing the risk of discrepancies.
+Enhanced Collaboration: Enables collaboration among development, testing, and operations teams by providing a standardized and automated deployment pipeline.
