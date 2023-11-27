@@ -6,7 +6,7 @@
 
 This project focuses on implementing a robust CI/CD pipeline using Jenkins for building, packaging, and deploying Docker images to Amazon Web Services (AWS) Elastic Container Registry (ECR) and subsequently deploying them to AWS Elastic Container Service (ECS).
 
-## Benefits:
+### Benefits:
 
 **Time and Cost Savings:** Automation reduces manual intervention, minimizing errors and accelerating the deployment process.<br>
 **Consistency and Reliability:** Ensures consistency in the deployment process across different environments, reducing the risk of discrepancies.<br>
