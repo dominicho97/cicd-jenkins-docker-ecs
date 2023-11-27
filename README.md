@@ -5,6 +5,12 @@
 
 This project focuses on implementing a robust CI/CD pipeline using Jenkins for building, packaging, and deploying Docker images to Amazon Web Services (AWS) Elastic Container Registry (ECR) and subsequently deploying them to AWS Elastic Container Service (ECS).
 
+## Benefits:
+
+**Time and Cost Savings:** Automation reduces manual intervention, minimizing errors and accelerating the deployment process.<br>
+**Consistency and Reliability:** Ensures consistency in the deployment process across different environments, reducing the risk of discrepancies.<br>
+**Enhanced Collaboration:** Enables collaboration among development, testing, and operations teams by providing a standardized and automated deployment pipeline.
+
 ## Jenkins CICD pipeline
 ![CICDJenkins_ecs_docker](https://github.com/dominicho97/cicd-jenkins-docker-ecs/assets/43000003/c5a39593-250a-40c3-a8dd-54fc998f2d6b)
 
@@ -18,8 +24,4 @@ This project focuses on implementing a robust CI/CD pipeline using Jenkins for b
 ![deployment](https://github.com/dominicho97/cicd-jenkins-docker-ecs/assets/43000003/4d07cf2a-1d38-4417-ba05-74927771063e)
 
 
-## Benefits:
 
-**Time and Cost Savings:** Automation reduces manual intervention, minimizing errors and accelerating the deployment process.<br>
-**Consistency and Reliability:** Ensures consistency in the deployment process across different environments, reducing the risk of discrepancies.<br>
-**Enhanced Collaboration:** Enables collaboration among development, testing, and operations teams by providing a standardized and automated deployment pipeline.
