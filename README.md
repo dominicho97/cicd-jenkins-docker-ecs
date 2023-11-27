@@ -1,5 +1,6 @@
 # cicd-jenkins-docker-ecs
 
+## Project
 **Continuous Integration and Continuous Deployment (CI/CD**) Pipeline for **Dockerized** Applications on **AWS**
 
 
